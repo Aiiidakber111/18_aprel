@@ -56,9 +56,13 @@
 
 //6. Declare a function name. It takes an array as a parameter and it returns the reverse of the array (don't use method).
 // const array =[2,3,6,7,4];
-// function reverseArray(){
+// function reverseArray(array){
+//     for (let i = array.length; i >= 0; i--) {
+
+//         console.log(array[i]);
+//     }
 // }
-//  console.log(array.reverse())
+// reverseArray(array)
 
 
 //7. Write a function pow(x,n) that returns x in power n. Or, in other words, multiplies x by itself n times and returns the result.
